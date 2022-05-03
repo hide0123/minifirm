@@ -1,5 +1,5 @@
 # minifirm
-A template to build a 3DS firmware binary which just has an Arm9 section.
+A template to build a 3DS firmware binary which has an Arm9 and Arm11 section out of the box.
 
 ## Install dependencies
 
