@@ -21,3 +21,4 @@ This project is licensed under the GNU General Public License v2.0. Refer to the
 ## Credits
 
 - [firm_linux_loader](https://github.com/linux-3ds/firm_linux_loader) - for being great help in the development of this project
+- [V01D-NULL](https://github.com/V01D-NULL) - Arm11 support
